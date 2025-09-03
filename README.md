@@ -26,4 +26,4 @@ elif op == "**":
     print("Результат:", a ** b)
 else:
     print("Неизвестная операция")
-    <img width="1691" height="704" alt="Снимок экрана 2025-09-03 145628" src="https://github.com/user-attachments/assets/9deed7fc-6fb4-46cb-ad43-f1f4668bb610" />
+<img width="1691" height="704" alt="Снимок экрана 2025-09-03 145628" src="https://github.com/user-attachments/assets/9deed7fc-6fb4-46cb-ad43-f1f4668bb610" />
